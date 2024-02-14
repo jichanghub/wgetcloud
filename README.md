@@ -1,7 +1,7 @@
 # WgetCloud测速及最新官网地址
 
 ## WgetCloud官网地址
-最新官网地址：[WgetCloud官网](https://jcz.affxc.com/wgetcloud/)
+最新官网地址：[WgetCloud官网](https://jch.affxc.com/wgetcloud/)
 
 ## WgetCloud怎么样？
 
